@@ -183,3 +183,15 @@ The system aims to improve efficiency, reduce manual work, simplify property tra
 **Department:** Software Engineering
 **Class:** BSE – 4A
 **Project:** Real Estate & Property Management System
+
+
+<img width="915" height="785" alt="image" src="https://github.com/user-attachments/assets/bb1d4b42-1d61-4839-ab59-12ccf6c9b4e1" />
+<img width="1127" height="486" alt="image" src="https://github.com/user-attachments/assets/9ad84c83-162d-4aff-8735-3770f34c374c" />
+<img width="1029" height="782" alt="image" src="https://github.com/user-attachments/assets/47e26924-64a9-423e-a7ca-d1daeaedf59c" />
+<img width="964" height="491" alt="image" src="https://github.com/user-attachments/assets/aa303cfd-2b1e-42bf-af62-ff574d2fdfb5" />
+<img width="1335" height="709" alt="image" src="https://github.com/user-attachments/assets/f7169ded-6ccf-4b06-ba60-04f0755f2a47" />
+
+
+
+
+
